@@ -71,7 +71,7 @@ npm test
 
 ### 📸 Coverage Screenshot
 
-![Test Coverage](./coverage-snap.png)
+![Test Coverage](./coverage_snap.png)
 
 ---
 
